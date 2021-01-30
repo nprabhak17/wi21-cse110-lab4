@@ -42,7 +42,7 @@
 19) It returns: [ 6, 8, 10 ], It takes each element of an array xi and makes a new array with values 2xi + 2
 
 21)
-1
-4
-3
-2
+        1
+        4
+        3
+        2
